@@ -1,4 +1,4 @@
-# Quartic Solver
+# Quartic Solver for Python
 An exact and fast quartic solver for Python
 Also includes a quadratic (numerically stable) solver and a simpler cubic solver. 
 
